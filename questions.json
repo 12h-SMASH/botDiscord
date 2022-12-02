@@ -1,0 +1,179 @@
+{
+	"values": [
+		{
+			"theme": "IST",
+			"difficulty": 3,
+			"question": "Que signifie IST ?",
+			"answer": "infections sexuellement transmissibles",
+			"explication": "Les IST sont des infections provoquées par des microbes (virus, bactéries, parasites) qui peuvent être transmis plus ou moins facilement au cours de relations sexuelles."
+		},
+		{
+			"theme": "IST",
+			"difficulty": 1,
+			"question": "Vrai ou Faux ? Les IST et les MST sont les mêmes choses.",
+			"answer": "Vrai",
+			"explication": "Les IST sont anciennement appelées les MST."
+		},
+		{
+			"theme": "IST",
+			"difficulty": 2,
+			"question": "Vrai ou Faux ? Les femmes sont les plus touchées par la syphilis.",
+			"answer": "Faux",
+			"explication": "La syphilis touche principalement les homosexuels masculins."
+		},
+		{
+			"theme": "IST",
+			"difficulty": 3,
+			"question": "Quelle est l’IST la plus fréquente ?",
+			"answer": "papillomavirus",
+			"explication": "Le papillomavirus est l’IST la plus fréquente. 80 % des femmes et probablement autant d'hommes présentent une infection au papillomavirus à un moment de leur vie."
+		},
+		{
+			"theme": "IST",
+			"difficulty": 2,
+			"question": "Quel est le terme utilisé pour dire qu’une personne est infectée par le VIH ?",
+			"answer": "séropositivité",
+			"explication": "Une personne est dite 'séropositive pour le VIH' lorsqu'elle est infectée par le VIH, donc porteuse du virus."
+		},
+		{
+			"theme": "VIH",
+			"difficulty": 2,
+			"question": "Que signifie VIH ?",
+			"answer": "Virus de l’immunodéficience humaine",
+			"explication": "VIH veut dire Virus de l’immunodéficience humaine. Lorsqu'une personne est infectée, le VIH attaque progressivement certaines cellules qui coordonnent l'immunité."
+		},
+		{
+			"theme": "VIH",
+			"difficulty": 2,
+			"question": "Que signifie Sida ?",
+			"answer": "Syndrome d’immuno déficience acquise",
+			"explication": "Sida veut dire Syndrome d’immuno déficience acquise. Au fil du temps et en l'absence de traitement efficace, les cellules coordonnant l'immunité peuvent devenir de moins en moins nombreuses et l'immunité risque d'être moins efficace. Des maladies de plus en plus graves risquent alors se développer. Certaines maladies sont appelées 'maladies opportunistes' parce qu'elles profitent de la diminution de l'immunité pour se développer. Lorsqu'une personne a une ou plusieurs maladies de ce type, on dit qu'elle a le SIDA."
+		},
+		{
+			"theme": "VIH",
+			"difficulty": 1,
+			"question": "Vrai ou Faux ? Le Sida et le VIH sont la même chose.",
+			"answer": "Faux",
+			"explication": "Quand une personne a le SIDA c’est qu’elle est déjà forcément infectée par le VIH. Mais toutes les personnes infectées par le VIH ne développent pas forcément le SIDA."
+		},
+		{
+			"theme": "masturbation",
+			"difficulty": 2,
+			"question": "Quel est l’intervalle de jours recommandé entre chaque masturbations pour les mecs?",
+			"answer": "2",
+			"explication": "L’intervalle idéal entre chaque masturbation est de deux jours."
+		},
+		{
+			"theme": "masturbation",
+			"difficulty": 2,
+			"question": "Vrai ou Faux ? La masturbation améliore la qualité du sommeil ?",
+			"answer": "Vrai",
+			"explication": "Le plaisir et/ou l'orgasme, que la masturbation procure, libère des hormones bénéfiques pour l’organisme comme les endorphines."
+		},
+		{
+			"theme": "masturbation",
+			"difficulty": 4,
+			"question": "Quel est le temps moyen en seconde d’un orgasme chez la femme ?",
+			"answer": "20",
+			"explication": "20 secondes c'est le temps moyen d'un orgasme féminin selon une étude publiée en 1985."
+		},
+		{
+			"theme": "masturbation",
+			"difficulty": 4,
+			"question": "Quel est le temps moyen en seconde d’un orgasme chez l’homme?",
+			"answer": "6",
+			"explication": "6 secondes c'est le temps moyen d'un orgasme masculin."
+		},
+		{
+			"theme": "masturbation",
+			"difficulty": 3,
+			"question": "Quelle est la zone érogène chez la femme qui est la plus sensible ?",
+			"answer": "Clitoris",
+			"explication": "Le clitoris est l'une des zones érogènes les plus sensibles en raison de sa forte concentration de terminaisons nerveuses."
+		},
+		{
+			"theme": "masturbation",
+			"difficulty": 1,
+			"question": "Vrai ou Faux? Le pénis est un os.",
+			"answer": "Faux",
+			"explication": "C’est un corps caverneux qui se gonfle de sang pendant l’érection."
+		},
+		{
+			"theme": "masturbation",
+			"difficulty": 1,
+			"question": "Vrai ou Faux ? On devient plus bête quand on bande. ",
+			"answer": "Vrai",
+			"explication": "Le pénis se gonfle de sang donc il y a moins de sang dans le cerveau."
+		},
+		{
+			"theme": "masturbation",
+			"difficulty": 5,
+			"question": "Combien il y a de positions dans le Kamasutra ?",
+			"answer": "64",
+			"explication": "Il y a 8 positions de base à partir desquelles il existe des variantes. Il y a un total de 64 positions sexuelles."
+		},
+		{
+			"theme": "protections",
+			"difficulty": 4,
+			"question": "Vrai ou Faux ? Deux filles peuvent utiliser le même sextoy sans problème.",
+			"answer": "Faux",
+			"explication": "Il est recommandé de ne pas partager le même sextoy, vous pouvez soit en acheter un autre soit mettre des préservatifs."
+		},
+		{
+			"theme": "hépatites",
+			"difficulty": 3,
+			"question": "Les hépatites sont des inflammations sur quel organe ?",
+			"answer": "Foie",
+			"explication": "L’hépatite désigne toute inflammation aiguë ou chronique du foie."
+		},
+		{
+			"theme": "hépatites",
+			"difficulty": 4,
+			"question": "Les hépatites vont de la lettre A à..?",
+			"answer": "G",
+			"explication": "Il y a 5 virus principaux de l’hépatite, que l’on appelle A, B, C, D et E et 1 virus moins connu le G."
+		},
+		{
+			"theme": "hépatites",
+			"difficulty": 3,
+			"question": "Vrai ou Faux ? L’alcool est une cause d’hépatites.",
+			"answer": "Vrai",
+			"explication": "La consommation excessive d’alcool est la cause la plus importante."
+		},
+		{
+			"theme": "hépatites",
+			"difficulty": 5,
+			"question": "L’hépatite A est causé par : Les selles de personnes infectées ou le partage de matériel d’injection ?",
+			"answer": "Les selles de personnes infectées",
+			"explication": "Le virus de l’hépatite A (VHA) se transmet essentiellement en consommant de l’eau souillée ou des aliments contaminés par des matières fécales."
+		},
+		{
+			"theme": "hépatites",
+			"difficulty": 3,
+			"question": "La transplantation hépatique c’est la greffe de quel organe ?",
+			"answer": "Foie",
+			"explication": "Il s’agit de la greffe d’un foie, d’un individu à un autre."
+		},
+		{
+			"theme": "menstruations",
+			"difficulty": 2,
+			"question": "Quelle est la durée normale des règles en jours ? 4 à 6, 1 à 5 ou 3 à 7 ?",
+			"answer": "3 à 7",
+			"explication": "La durée des règles est très variable selon les femmes et selon les âges de la vie. Mais en moyenne, on parle de 2 à 7 jours."
+		},
+		{
+			"theme": "menstruations",
+			"difficulty": 4,
+			"question": "Quelle est la maladie qui se caractérise par le développement d’une muqueuse utérine en dehors de l’utérus?",
+			"answer": "Endométriose",
+			"explication": "L’endométriose, maladie longtemps ignorée, parfois très difficile à vivre au quotidien, se définit comme la présence en dehors de la cavité utérine de tissu semblable à la muqueuse utérine* qui subira, lors de chacun des cycles menstruels ultérieurs, l’influence des modifications hormonales."
+		},
+		{
+			"theme": "menstruations",
+			"difficulty": 3,
+			"question": "Qu’est ce qui relie les ovaires à l’utérus?",
+			"answer": "Trompe",
+			"explication": "Situées entre les ovaires et l'utérus, le rôle des trompes de Fallope est de porter jusqu'à l'utérus les ovules fabriqués chaque mois par les ovaires."
+		}
+	]
+}
