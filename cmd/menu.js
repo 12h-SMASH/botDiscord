@@ -13,12 +13,13 @@ module.exports = {
 		.setDescriptionLocalization("en-GB", "Show the administration menu of the site.")
 		.addSubcommand(sc => sc
 			.setName("afficher")
-			.setDescription("Affiche la liste des questions")
+			.setDescription("Affiche une questions")
 			.addIntegerOption(o => o
 				.setName("id")
 				.setDescription("Indexation de la question")
 				.setMinValue(0)
 				.setMaxValue(questions.values.length - 1)
+				.setRequired(true)
 			)
 		)
 		.addSubcommand(sc => sc
