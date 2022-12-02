@@ -58,45 +58,6 @@ module.exports = {
 				.setRequired(true)
 			)
 		)
-		.addSubcommand(sc => sc
-			.setName("modifier")
-			.setDescription("Modifier")
-			.setDescriptionLocalization("en-GB", "Modify a question")
-			.addIntegerOption(o => o
-				.setName("id")
-				.setDescription("L'identifiant de la question")
-				.setDescriptionLocalization("en-GB", "Question's identifier")
-				.setMinValue(0)
-				.setRequired(true)
-			)
-			.addStringOption(o => o
-				.setName("theme")
-				.setDescription("Le thème de la question")
-				.setDescriptionLocalization("en-GB", "Question's theme")
-			)
-			.addIntegerOption(o => o
-				.setName("difficulty")
-				.setDescription("Difficulté de la question")
-				.setDescriptionLocalization("en-GB", "Question's difficulty")
-				.setMinValue(1)
-				.setMaxValue(5)
-			)
-			.addStringOption(o => o
-				.setName("question")
-				.setDescription("La question")
-				.setDescriptionLocalization("en-GB", "Question")
-			)
-			.addStringOption(o => o
-				.setName("answer")
-				.setDescription("La réponse à la question")
-				.setDescriptionLocalization("en-GB", "Question's answer")
-			)
-			.addStringOption(o => o
-				.setName("explication")
-				.setDescription("L'explication de la réponse")
-				.setDescriptionLocalization("en-GB", "Answer's explication")
-			)
-		)
 
 	/**
 	 * Traitement de la commande
@@ -117,8 +78,6 @@ module.exports = {
 				questions.values = array;
 				fs.writeFileSync("../questions.json",JSON.stringify(questions));
 				await interaction.reply("Oui");
-			} else if (interaction.options.getSubcommand() === "modifier") {
-				
 			} else if (interaction.options.getSubcommand() === "afficher") {
 				var id = interaction.options.getInteger("id");
 				var q = questions["values"][id];
